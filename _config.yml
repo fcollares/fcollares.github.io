@@ -118,21 +118,22 @@ keywords: "Data, data science, data analyst, python, sql, pandas, numpy"
 # footer-link-col: "#404040"
 
 navbar-col: "#EAEAEA"
-navbar-text-col: "#404040"
+navbar-text-col: "#fca311"
 navbar-border-col: "#DDDDDD"
-page-col: "#5CDB95"
-text-col: "#404040"
+page-col: "#e5e5e5"
+text-col: "#14213d"
 link-col: "#008AFF"
-hover-col: "#0085A1"
+hover-col: "#fca311"
 footer-col: "#EAEAEA"
-footer-text-col: "#777777"
+footer-text-col: "#fca311"
 footer-link-col: "#404040"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
 
-navbar-img: "/assets/img/data-science-course.png"
-#footer-img: "/assets/img/bgimage.png"
+# DS image does not work, find thin banner. Can search for facebook banners
+navbar-img: "/assets/img/banner.png"
+footer-img: "/assets/img/data-science-course.png"
 #page-img: "/assets/img/bgimage.png"
 
 # Suggest a colour for mobile browsers to use as the browser's theme. This is only supported by a few mobile browsers.

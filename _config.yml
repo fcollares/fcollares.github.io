@@ -132,7 +132,7 @@ footer-link-col: "#404040"
 # instead of colour
 
 # DS image does not work, find thin banner. Can search for facebook banners
-navbar-img: "/assets/img/banner.png"
+navbar-img: "/assets/img/banner.PNG"
 footer-img: "/assets/img/data-science-course.png"
 #page-img: "/assets/img/bgimage.png"
 

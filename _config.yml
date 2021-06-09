@@ -133,7 +133,7 @@ footer-link-col: "#fca311"
 
 # DS image does not work, find thin banner. Can search for facebook banners
 navbar-img: "/assets/img/banner.jpg"
-footer-img: "/assets/img/banner2.jpg
+footer-img: "/assets/img/banner2.jpg"
 #page-img: "/assets/img/bgimage.png"
 
 # Suggest a colour for mobile browsers to use as the browser's theme. This is only supported by a few mobile browsers.

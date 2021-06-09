@@ -121,6 +121,9 @@ img {
 }
 
 /* --- Navbar --- */
+a.nav-link{
+  border: 1px solid black;
+}
 
 .navbar-custom {
   background-color: {{ site.navbar-col | default: "#EAEAEA" }};

@@ -126,14 +126,14 @@ link-col: "#008AFF"
 hover-col: "#fca311"
 footer-col: "#EAEAEA"
 footer-text-col: "#fca311"
-footer-link-col: "#404040"
+footer-link-col: "#fca311"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
 
 # DS image does not work, find thin banner. Can search for facebook banners
 navbar-img: "/assets/img/banner.PNG"
-footer-img: "/assets/img/data-science-course.png"
+footer-img: "/assets/img/banner2.png"
 #page-img: "/assets/img/bgimage.png"
 
 # Suggest a colour for mobile browsers to use as the browser's theme. This is only supported by a few mobile browsers.

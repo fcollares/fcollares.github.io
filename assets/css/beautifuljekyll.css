@@ -120,12 +120,13 @@ img {
 }
 
 /* --- Navbar --- */
+
+/*Code for borders. Also see line 157, 244, 250*/
 a.nav-link{
   border: 2px solid black;
   border-radius: 8px;
   background-color: black;
 }
-
 
 a.navbar-brand{
   border: 2px solid black;
@@ -153,10 +154,13 @@ a.navbar-brand{
   padding-bottom: 0;
 }
 
+/*This is where I can change the Welcome|Home button*/
 .navbar-custom .navbar-brand {
   line-height: 1.5;
-  padding-top: 0.625rem;
-  padding-bottom: 0.625rem;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 5px;
+  padding-right: 5px;
   font-size: 1.125rem;
 }
 
@@ -237,13 +241,19 @@ a.navbar-brand{
     height: 3.125rem;
   }
 
+  /* This is where I can the other buttons, right now it's Resume*/
   .navbar-expand-xl .navbar-nav .nav-link {
-    padding-left: 0.9375rem;
-    padding-right: 0.9375rem;
+    padding-left: 5px;
+    padding-right: 5px;
   }
 
+  /* This is where I can change last button, right now it's GitHub*/
   .navbar-expand-xl .navbar-nav .nav-item:not(.dropdown):last-child .nav-link {
-    padding-right: 0;
+    padding-right: 5px;
+    padding-left: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin: 10px;
   }
 }
 
